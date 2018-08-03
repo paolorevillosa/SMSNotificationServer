@@ -1,7 +1,9 @@
-package com.pagorithm.com.smsnotificationserver;
+package com.pagorithm.com.smsnotificationserver.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.pagorithm.com.smsnotificationserver.R;
 
 public class LoginActivity extends AppCompatActivity {
 
